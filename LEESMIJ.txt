@@ -1,0 +1,7 @@
+TESLA KILOMETERTRACKER – OFFLINE APP
+
+1. De app synchroniseert niet. Gegevens blijven op één toestel.
+2. Om hem op iPhone/iPad op het beginscherm te installeren, moet je deze map publiceren op een HTTPS-website (bv. GitHub Pages of Netlify). Open vervolgens de HTTPS-link in Safari > Deel > Zet op beginscherm.
+3. Na het eerste bezoek kan de app dankzij de service worker ook zonder internet werken.
+4. Het losse HTML-bestand kan worden geopend in een geschikte browser, maar vanuit de ChatGPT-bestandsviewer kunnen functies geblokkeerd zijn.
+5. Maak regelmatig een volledige JSON-back-up via de app.
